@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec.bak
+
+# Game files / test titles (never commit these)
+titles/
+*.nsp
+*.nsz
+*.xci
+
+# macOS
+.DS_Store
